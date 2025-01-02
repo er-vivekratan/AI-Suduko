@@ -1,0 +1,19 @@
+The rules of Sudoku are:
+
+Grid: The grid is 9 squares by 9 squares. 
+
+Numbers: The numbers 1–9 are used to fill in the grid. 
+
+Rows and columns: Each row and column must contain the numbers 1–9 without repetition. 
+
+3x3 blocks: The grid is divided into 3x3 blocks, and each block must contain the numbers 1–9 without repetition. 
+
+Notes: Players can use notes, or mark-ups, to indicate possible numbers in a cell. 
+
+Solution: There is only one correct solution to each Sudoku puzzle. 
+
+Solving Sudoku puzzles is more about logic and reasoning than math. Some strategies for solving Sudoku puzzles include: 
+Working with the numbers already given in the puzzle
+Using the process of elimination to find numbers
+Ignoring certain squares and filling in other areas of the grid first
+The modern form of Sudoku first appeared in 1979 in Dell Magazines puzzle books under the name Number Place. The name Sudoku was given to the puzzle in 1986 by the Japanese puzzle company Nikoli, which means "single number". 
